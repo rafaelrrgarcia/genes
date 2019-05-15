@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule !((dbg-wizard|dbg-sample).(php)|(\.(gif|jpg|JPG|JPEG|png|js|css|woff2|map|woff|ttf|html)))$ url.php
+
