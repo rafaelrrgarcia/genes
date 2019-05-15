@@ -1,0 +1,6 @@
+.bg-gradient-rb {
+  background-color: #c78d2d;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #c78d2d), to(#294585));
+  background-image: linear-gradient(180deg, #c78d2d 10%, #294585 100%);
+  background-size: cover;
+}
